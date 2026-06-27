@@ -1,0 +1,10 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes de bases de données
+*.sql
+
+# Dossiers temporaires de l'éditeur (ex: VS Code)
+.vscode/
+.idea/
